@@ -32,7 +32,7 @@
 <img width="488" alt="userbisola" src="https://user-images.githubusercontent.com/112771723/192093639-43f6f0c8-b56c-4f8d-a9f2-541d36d1e8de.png">
 
 #### Below is the link to the demo of this project
-[Link](https://s3.console.aws.amazon.com/s3/object/folashade-pbl?region=us-east-1&prefix=aux-project.mp4)
+[Link](https://folashade-pbl.s3.amazonaws.com/aux-project.mp4)
 
 
 
