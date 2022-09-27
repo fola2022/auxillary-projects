@@ -16,14 +16,17 @@
 <img width="299" alt="user name" src="https://user-images.githubusercontent.com/112771723/192093828-c6d6d876-d972-48bd-a728-6e0f57fc18e7.png">
 
 ### The users were successfully added to the developers group and permission was alos changed
-##### Commands are; sudo groupadd developers
-#####               sudo chmod +x onboard.sh
+##### Commands are; 
+```
+sudo groupadd developers
+sudo chmod +x onboard.sh
+```
 #####               ls -la /home
 <img width="382" alt="12" src="https://user-images.githubusercontent.com/112771723/192093315-432d5062-ee77-47b2-9726-3608ec0c6892.png">
 <img width="389" alt="234" src="https://user-images.githubusercontent.com/112771723/192093338-535a6f50-e694-4b54-9b5f-ad22b81525e1.png">
 
 ### Developers id
-##### Command: getent group developers
+##### Command: `getent group developers`
 <img width="453" alt="developer id 14" src="https://user-images.githubusercontent.com/112771723/192093424-c0fe0bee-1b04-44f3-b2ee-3358619cd87f.png">
 
 ### Testing few users
